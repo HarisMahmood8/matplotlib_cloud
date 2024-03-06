@@ -17,3 +17,6 @@
 To generate the visualization:
 1. Ensure that the JSON key file path is correctly set in `key_path`.
 2. Run the script. It will create an interactive HTML file showing the sentiment scores plotted over time.
+
+## Output
+An interactive graph
